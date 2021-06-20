@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.inhatc.corona.Mapper.BoardMapper">
+
+    <select resultType="String" id="getName">select * from corona </select>
+
+
+    <select resultType="hashmap" id="TodayList" parameterType="String">
+        SELECT
+        examCnt, decideCnt, clearCnt, deathCnt, createDt
+        FROM
+        corona
+        WHERE Date=#{today}
+    </select>
+
+    <select resultType="hashmap" id="YesterdayList" parameterType="String">
+        SELECT
+        decideCnt, clearCnt, deathCnt
+        FROM
+        corona
+        WHERE Date=#{yesterday}
+    </select>
+
+    <select id="getCount1" resultType="String" parameterType="String">
+        SELECT decideCnt FROM corona WHERE Date=#{today};
+    </select>
+
+    <select id="getCount2" resultType="String" parameterType="String">
+        SELECT decideCnt FROM corona WHERE Date=#{yesterday};
+    </select>
+
+    <select id="getCount" resultType="hashmap" parameterType="String">
+        SELECT * FROM corona;
+    </select>
+
+    <select resultType="hashmap" id="getVaccine" parameterType="String">
+        SELECT * FROM vaccine WHERE baseDate=#{dayTime};
+    </select>
+</mapper>

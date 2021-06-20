@@ -1,0 +1,2864 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <areaNm>기타</areaNm>
+                <areaNmCn>其他</areaNmCn>
+                <areaNmEn>Others</areaNmEn>
+                <createDt>2021-05-26 10:23:03.44</createDt>
+                <natDeathCnt>7885</natDeathCnt>
+                <natDeathRate>1.2231690082</natDeathRate>
+                <natDefCnt>644637</natDefCnt>
+                <nationNm>기타지역 영토</nationNm>
+                <nationNmCn>其他</nationNmCn>
+                <nationNmEn>Others</nationNmEn>
+                <seq>101419</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.44</createDt>
+                <natDeathCnt>326</natDeathCnt>
+                <natDeathRate>3.0123821844</natDeathRate>
+                <natDefCnt>10822</natDefCnt>
+                <nationNm>레소토</nationNm>
+                <nationNmCn>萊索托</nationNmCn>
+                <nationNmEn>Lesotho</nationNmEn>
+                <seq>101418</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.44</createDt>
+                <natDeathCnt>146</natDeathCnt>
+                <natDeathRate>3.7037037037</natDeathRate>
+                <natDefCnt>3942</natDefCnt>
+                <nationNm>코모로</nationNm>
+                <nationNmCn>科摩羅</nationNmCn>
+                <nationNmEn>Comoros</nationNmEn>
+                <seq>101417</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.44</createDt>
+                <natDeathCnt>37</natDeathCnt>
+                <natDeathRate>1.5839041095</natDeathRate>
+                <natDefCnt>2336</natDefCnt>
+                <nationNm>상투메프린시페</nationNm>
+                <nationNmCn>聖多美和普林西比</nationNmCn>
+                <nationNmEn>Sao Tome and Principe</nationNmEn>
+                <seq>101416</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.44</createDt>
+                <natDeathCnt>115</natDeathCnt>
+                <natDeathRate>1.0770815772</natDeathRate>
+                <natDefCnt>10677</natDefCnt>
+                <nationNm>남수단</nationNm>
+                <nationNmCn>南蘇丹</nationNmCn>
+                <nationNmEn>South Sudan</nationNmEn>
+                <seq>101415</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.439</createDt>
+                <natDeathCnt>1154</natDeathCnt>
+                <natDeathRate>3.3651182457</natDeathRate>
+                <natDefCnt>34293</natDefCnt>
+                <nationNm>말라위</nationNm>
+                <nationNmCn>馬拉維</nationNmCn>
+                <nationNmEn>Malawi</nationNmEn>
+                <seq>101414</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.439</createDt>
+                <natDeathCnt>79</natDeathCnt>
+                <natDeathRate>1.9170104343</natDeathRate>
+                <natDefCnt>4121</natDefCnt>
+                <nationNm>시에라리온</nationNm>
+                <nationNmCn>塞拉利昂</nationNmCn>
+                <nationNmEn>Sierra Leone</nationNmEn>
+                <seq>101413</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.439</createDt>
+                <natDeathCnt>6</natDeathCnt>
+                <natDeathRate>0.1313485113</natDeathRate>
+                <natDefCnt>4568</natDefCnt>
+                <nationNm>브룬디</nationNm>
+                <nationNmCn>布倫迪</nationNmCn>
+                <nationNmEn>Brundi</nationNmEn>
+                <seq>101412</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.439</createDt>
+                <natDeathCnt>809</natDeathCnt>
+                <natDeathRate>1.4602360925</natDeathRate>
+                <natDefCnt>55402</natDefCnt>
+                <nationNm>보츠와나</nationNm>
+                <nationNmCn>博茨瓦納</nationNmCn>
+                <nationNmEn>Botswana</nationNmEn>
+                <seq>101411</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.439</createDt>
+                <natDeathCnt>514</natDeathCnt>
+                <natDeathRate>3.6085369278</natDeathRate>
+                <natDefCnt>14244</natDefCnt>
+                <nationNm>말리</nationNm>
+                <nationNmCn>馬里</nationNmCn>
+                <nationNmEn>Mali</nationNmEn>
+                <seq>101410</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.439</createDt>
+                <natDeathCnt>68</natDeathCnt>
+                <natDeathRate>1.8128499066</natDeathRate>
+                <natDefCnt>3751</natDefCnt>
+                <nationNm>기니비사우</nationNm>
+                <nationNmCn>幾內亞比紹</nationNmCn>
+                <nationNmEn>Guinea Bissau</nationNmEn>
+                <seq>101409</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.439</createDt>
+                <natDeathCnt>831</natDeathCnt>
+                <natDeathRate>1.1769537999</natDeathRate>
+                <natDefCnt>70606</natDefCnt>
+                <nationNm>모잠비크</nationNm>
+                <nationNmCn>莫桑比克</nationNmCn>
+                <nationNmEn>Mozambique</nationNmEn>
+                <seq>101408</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.438</createDt>
+                <natDeathCnt>357</natDeathCnt>
+                <natDeathRate>0.8128600377</natDeathRate>
+                <natDefCnt>43919</natDefCnt>
+                <nationNm>우간다</nationNm>
+                <nationNmCn>烏干達</nationNmCn>
+                <nationNmEn>Uganda</nationNmEn>
+                <seq>101407</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.438</createDt>
+                <natDeathCnt>14</natDeathCnt>
+                <natDeathRate>0.3560528992</natDeathRate>
+                <natDefCnt>3932</natDefCnt>
+                <nationNm>에리트레아</nationNm>
+                <nationNmCn>厄立特里亞</nationNmCn>
+                <nationNmEn>Eritrea</nationNmEn>
+                <seq>101406</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.438</createDt>
+                <natDeathCnt>731</natDeathCnt>
+                <natDeathRate>2.2407503908</natDeathRate>
+                <natDefCnt>32623</natDefCnt>
+                <nationNm>앙골라</nationNm>
+                <nationNmCn>安哥拉</nationNmCn>
+                <nationNmEn>Angola</nationNmEn>
+                <seq>101405</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.438</createDt>
+                <natDeathCnt>806</natDeathCnt>
+                <natDeathRate>1.9680617277</natDeathRate>
+                <natDefCnt>40954</natDefCnt>
+                <nationNm>마다가스카르</nationNm>
+                <nationNmCn>馬達加斯加</nationNmCn>
+                <nationNmEn>Madagascar</nationNmEn>
+                <seq>101404</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.438</createDt>
+                <natDeathCnt>767</natDeathCnt>
+                <natDeathRate>5.2419354838</natDeathRate>
+                <natDefCnt>14632</natDefCnt>
+                <nationNm>소말리아</nationNm>
+                <nationNmCn>索马里</nationNmCn>
+                <nationNmEn>Somalia</nationNmEn>
+                <seq>101403</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.438</createDt>
+                <natDeathCnt>1586</natDeathCnt>
+                <natDeathRate>4.0986148439</natDeathRate>
+                <natDefCnt>38696</natDefCnt>
+                <nationNm>짐바브웨</nationNm>
+                <nationNmCn>津巴布韋</nationNmCn>
+                <nationNmEn>Zimbabwe</nationNmEn>
+                <seq>101402</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.438</createDt>
+                <natDeathCnt>258</natDeathCnt>
+                <natDeathRate>0.8772228077</natDeathRate>
+                <natDefCnt>29411</natDefCnt>
+                <nationNm>카보베르데</nationNm>
+                <nationNmCn>佛得角</nationNmCn>
+                <nationNmEn>Cape Verde</nationNmEn>
+                <seq>101401</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.438</createDt>
+                <natDeathCnt>192</natDeathCnt>
+                <natDeathRate>3.5654596100</natDeathRate>
+                <natDefCnt>5385</natDefCnt>
+                <nationNm>니제르</nationNm>
+                <nationNmCn>尼日爾</nationNmCn>
+                <nationNmEn>Niger</nationNmEn>
+                <seq>101400</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.437</createDt>
+                <natDeathCnt>173</natDeathCnt>
+                <natDeathRate>3.5134037367</natDeathRate>
+                <natDefCnt>4924</natDefCnt>
+                <nationNm>차드</nationNm>
+                <nationNmCn>乍得</nationNmCn>
+                <nationNmEn>Chad</nationNmEn>
+                <seq>101399</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.437</createDt>
+                <natDeathCnt>17</natDeathCnt>
+                <natDeathRate>1.2859304084</natDeathRate>
+                <natDefCnt>1322</natDefCnt>
+                <nationNm>모리셔스</nationNm>
+                <nationNmCn>毛里求斯</nationNmCn>
+                <nationNmEn>Mauritius</nationNmEn>
+                <seq>101398</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.437</createDt>
+                <natDeathCnt>1271</natDeathCnt>
+                <natDeathRate>1.3625789298</natDeathRate>
+                <natDefCnt>93279</natDefCnt>
+                <nationNm>잠비아</nationNm>
+                <nationNmCn>赞比亚</nationNmCn>
+                <nationNmEn>Zambia</nationNmEn>
+                <seq>101397</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.437</createDt>
+                <natDeathCnt>178</natDeathCnt>
+                <natDeathRate>2.9775844764</natDeathRate>
+                <natDefCnt>5978</natDefCnt>
+                <nationNm>감비아</nationNm>
+                <nationNmCn>冈比亚</nationNmCn>
+                <nationNmEn>Gambia</nationNmEn>
+                <seq>101396</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.437</createDt>
+                <natDeathCnt>153</natDeathCnt>
+                <natDeathRate>1.3302034428</natDeathRate>
+                <natDefCnt>11502</natDefCnt>
+                <nationNm>지부티</nationNm>
+                <nationNmCn>吉布地</nationNmCn>
+                <nationNmEn>Djibouti</nationNmEn>
+                <seq>101395</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.437</createDt>
+                <natDeathCnt>21</natDeathCnt>
+                <natDeathRate>4.1257367387</natDeathRate>
+                <natDefCnt>509</natDefCnt>
+                <nationNm>탄자니아</nationNm>
+                <nationNmCn>坦桑尼亚</nationNmCn>
+                <nationNmEn>Tanzania</nationNmEn>
+                <seq>101394</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.437</createDt>
+                <natDeathCnt>85</natDeathCnt>
+                <natDeathRate>3.9682539682</natDeathRate>
+                <natDefCnt>2142</natDefCnt>
+                <nationNm>라이베리아</nationNm>
+                <nationNmCn>利比里亚</nationNmCn>
+                <nationNmEn>Liberia</nationNmEn>
+                <seq>101393</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.436</createDt>
+                <natDeathCnt>101</natDeathCnt>
+                <natDeathRate>1.2585669781</natDeathRate>
+                <natDefCnt>8025</natDefCnt>
+                <nationNm>베냉</nationNm>
+                <nationNmCn>贝宁</nationNmCn>
+                <nationNmEn>Benin</nationNmEn>
+                <seq>101392</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.436</createDt>
+                <natDeathCnt>38</natDeathCnt>
+                <natDeathRate>0.3557386257</natDeathRate>
+                <natDefCnt>10682</natDefCnt>
+                <nationNm>세이쉘</nationNm>
+                <nationNmCn>塞舌尔群岛</nationNmCn>
+                <nationNmEn>Seychelles</nationNmEn>
+                <seq>101391</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.436</createDt>
+                <natDeathCnt>349</natDeathCnt>
+                <natDeathRate>1.3077038369</natDeathRate>
+                <natDefCnt>26688</natDefCnt>
+                <nationNm>르완다</nationNm>
+                <nationNmCn>卢旺达</nationNmCn>
+                <nationNmEn>Rwanda</nationNmEn>
+                <seq>101390</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.436</createDt>
+                <natDeathCnt>460</natDeathCnt>
+                <natDeathRate>2.3964574107</natDeathRate>
+                <natDefCnt>19195</natDefCnt>
+                <nationNm>모리타니아</nationNm>
+                <nationNmCn>毛里塔尼亚</nationNmCn>
+                <nationNmEn>Mauritania</nationNmEn>
+                <seq>101389</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.436</createDt>
+                <natDeathCnt>672</natDeathCnt>
+                <natDeathRate>3.6212749905</natDeathRate>
+                <natDefCnt>18557</natDefCnt>
+                <nationNm>에스와티니</nationNm>
+                <nationNmCn>斯瓦蒂尼</nationNmCn>
+                <nationNmEn>Swatini</nationNmEn>
+                <seq>101388</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.436</createDt>
+                <natDeathCnt>113</natDeathCnt>
+                <natDeathRate>1.3331760264</natDeathRate>
+                <natDefCnt>8476</natDefCnt>
+                <nationNm>적도기니</nationNm>
+                <nationNmCn>赤道几内亚</nationNmCn>
+                <nationNmEn>Equatorial Guinea</nationNmEn>
+                <seq>101387</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.436</createDt>
+                <natDeathCnt>153</natDeathCnt>
+                <natDeathRate>1.3124034997</natDeathRate>
+                <natDefCnt>11658</natDefCnt>
+                <nationNm>콩고</nationNm>
+                <nationNmCn>刚果民主共和国</nationNmCn>
+                <nationNmEn>Congo</nationNmEn>
+                <seq>101386</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.435</createDt>
+                <natDeathCnt>97</natDeathCnt>
+                <natDeathRate>1.3702500353</natDeathRate>
+                <natDefCnt>7079</natDefCnt>
+                <nationNm>중앙아프리카공화국</nationNm>
+                <nationNmCn>中非共和国</nationNmCn>
+                <nationNmEn>Central African Republic</nationNmEn>
+                <seq>101385</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.435</createDt>
+                <natDeathCnt>774</natDeathCnt>
+                <natDeathRate>1.4546958107</natDeathRate>
+                <natDefCnt>53207</natDefCnt>
+                <nationNm>나미비아</nationNm>
+                <nationNmCn>纳米比亚</nationNmCn>
+                <nationNmEn>Namibia</nationNmEn>
+                <seq>101384</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.435</createDt>
+                <natDeathCnt>3073</natDeathCnt>
+                <natDeathRate>1.8232735859</natDeathRate>
+                <natDefCnt>168543</natDefCnt>
+                <nationNm>케냐</nationNm>
+                <nationNmCn>肯亚</nationNmCn>
+                <nationNmEn>Kenya</nationNmEn>
+                <seq>101383</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.435</createDt>
+                <natDeathCnt>159</natDeathCnt>
+                <natDeathRate>0.6897449245</natDeathRate>
+                <natDefCnt>23052</natDefCnt>
+                <nationNm>기니</nationNm>
+                <nationNmCn>几内亚</nationNmCn>
+                <nationNmEn>Guinea</nationNmEn>
+                <seq>101382</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.435</createDt>
+                <natDeathCnt>783</natDeathCnt>
+                <natDeathRate>0.8361454017</natDeathRate>
+                <natDefCnt>93644</natDefCnt>
+                <nationNm>가나</nationNm>
+                <nationNmCn>加纳</nationNmCn>
+                <nationNmEn>Ghana</nationNmEn>
+                <seq>101381</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.435</createDt>
+                <natDeathCnt>147</natDeathCnt>
+                <natDeathRate>0.6097813912</natDeathRate>
+                <natDefCnt>24107</natDefCnt>
+                <nationNm>가봉</nationNm>
+                <nationNmCn>加蓬</nationNmCn>
+                <nationNmEn>Gabon</nationNmEn>
+                <seq>101380</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.435</createDt>
+                <natDeathCnt>4084</natDeathCnt>
+                <natDeathRate>1.5153988868</natDeathRate>
+                <natDefCnt>269500</natDefCnt>
+                <nationNm>에티오피아</nationNm>
+                <nationNmCn>埃塞俄比亚</nationNmCn>
+                <nationNmEn>Ethiopia</nationNmEn>
+                <seq>101379</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.435</createDt>
+                <natDeathCnt>2446</natDeathCnt>
+                <natDeathRate>7.0108056980</natDeathRate>
+                <natDefCnt>34889</natDefCnt>
+                <nationNm>수단</nationNm>
+                <nationNmCn>苏丹</nationNmCn>
+                <nationNmEn>Sudan</nationNmEn>
+                <seq>101378</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.434</createDt>
+                <natDeathCnt>298</natDeathCnt>
+                <natDeathRate>0.6335976867</natDeathRate>
+                <natDefCnt>47033</natDefCnt>
+                <nationNm>코트디부아르</nationNm>
+                <nationNmCn>科特迪瓦</nationNmCn>
+                <nationNmEn>Cote d&amp;acute;Ivoire</nationNmEn>
+                <seq>101377</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.434</createDt>
+                <natDeathCnt>779</natDeathCnt>
+                <natDeathRate>2.5240579334</natDeathRate>
+                <natDefCnt>30863</natDefCnt>
+                <nationNm>DR콩고</nationNm>
+                <nationNmCn>DR刚果</nationNmCn>
+                <nationNmEn>DRCongo</nationNmEn>
+                <seq>101376</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.434</createDt>
+                <natDeathCnt>165</natDeathCnt>
+                <natDeathRate>1.2299664554</natDeathRate>
+                <natDefCnt>13415</natDefCnt>
+                <nationNm>부르키나파소</nationNm>
+                <nationNmCn>布基纳法索</nationNmCn>
+                <nationNmEn>Burkina Faso</nationNmEn>
+                <seq>101375</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.434</createDt>
+                <natDeathCnt>125</natDeathCnt>
+                <natDeathRate>0.9346493195</natDeathRate>
+                <natDefCnt>13374</natDefCnt>
+                <nationNm>토고</nationNm>
+                <nationNmCn>多哥</nationNmCn>
+                <nationNmEn>Togo</nationNmEn>
+                <seq>101374</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.434</createDt>
+                <natDeathCnt>55874</natDeathCnt>
+                <natDeathRate>3.4114276782</natDeathRate>
+                <natDefCnt>1637848</natDefCnt>
+                <nationNm>남아프리카공화국</nationNm>
+                <nationNmCn>南非共和国</nationNmCn>
+                <nationNmEn>Republic of South Africa</nationNmEn>
+                <seq>101373</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.434</createDt>
+                <natDeathCnt>1230</natDeathCnt>
+                <natDeathRate>1.6024805878</natDeathRate>
+                <natDefCnt>76756</natDefCnt>
+                <nationNm>카메룬</nationNm>
+                <nationNmCn>喀麦隆</nationNmCn>
+                <nationNmEn>Cameroon</nationNmEn>
+                <seq>101372</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.434</createDt>
+                <natDeathCnt>1132</natDeathCnt>
+                <natDeathRate>2.7514462106</natDeathRate>
+                <natDefCnt>41142</natDefCnt>
+                <nationNm>세네갈</nationNm>
+                <nationNmCn>塞内加尔</nationNmCn>
+                <nationNmEn>Senegal</nationNmEn>
+                <seq>101371</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아프리카</areaNm>
+                <areaNmCn>非洲</areaNmCn>
+                <areaNmEn>Africa</areaNmEn>
+                <createDt>2021-05-26 10:23:03.433</createDt>
+                <natDeathCnt>2067</natDeathCnt>
+                <natDeathRate>1.2447233245</natDeathRate>
+                <natDefCnt>166061</natDefCnt>
+                <nationNm>나이지리아</nationNm>
+                <nationNmCn>尼日利亚</nationNmCn>
+                <nationNmEn>Nigeria</nationNmEn>
+                <seq>101370</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>오세아니아</areaNm>
+                <areaNmCn>大洋洲</areaNmCn>
+                <areaNmEn>Oceania</areaNmEn>
+                <createDt>2021-05-26 10:23:03.433</createDt>
+                <natDeathCnt>0</natDeathCnt>
+                <natDeathRate>0.0</natDeathRate>
+                <natDefCnt>1</natDefCnt>
+                <nationNm>사모아</nationNm>
+                <nationNmCn>萨摩亚</nationNmCn>
+                <nationNmEn>Samoa</nationNmEn>
+                <seq>101369</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>오세아니아</areaNm>
+                <areaNmCn>大洋洲</areaNmCn>
+                <areaNmEn>Oceania</areaNmEn>
+                <createDt>2021-05-26 10:23:03.433</createDt>
+                <natDeathCnt>0</natDeathCnt>
+                <natDeathRate>0.0</natDeathRate>
+                <natDefCnt>3</natDefCnt>
+                <nationNm>바누아투</nationNm>
+                <nationNmCn>瓦努阿图</nationNmCn>
+                <nationNmEn>Vanuatu</nationNmEn>
+                <seq>101368</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>오세아니아</areaNm>
+                <areaNmCn>大洋洲</areaNmCn>
+                <areaNmEn>Oceania</areaNmEn>
+                <createDt>2021-05-26 10:23:03.433</createDt>
+                <natDeathCnt>0</natDeathCnt>
+                <natDeathRate>0.0</natDeathRate>
+                <natDefCnt>20</natDefCnt>
+                <nationNm>솔로몬제도</nationNm>
+                <nationNmCn>所罗门群岛</nationNmCn>
+                <nationNmEn>Solomon Islands</nationNmEn>
+                <seq>101367</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>오세아니아</areaNm>
+                <areaNmCn>大洋洲</areaNmCn>
+                <areaNmEn>Oceania</areaNmEn>
+                <createDt>2021-05-26 10:23:03.433</createDt>
+                <natDeathCnt>0</natDeathCnt>
+                <natDeathRate>0.0</natDeathRate>
+                <natDefCnt>4</natDefCnt>
+                <nationNm>마셜제도</nationNm>
+                <nationNmCn>马绍尔群岛</nationNmCn>
+                <nationNmEn>Marshall Islands</nationNmEn>
+                <seq>101366</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>오세아니아</areaNm>
+                <areaNmCn>大洋洲</areaNmCn>
+                <areaNmEn>Oceania</areaNmEn>
+                <createDt>2021-05-26 10:23:03.433</createDt>
+                <natDeathCnt>156</natDeathCnt>
+                <natDeathRate>1.0248324793</natDeathRate>
+                <natDefCnt>15222</natDefCnt>
+                <nationNm>파푸아뉴기니</nationNm>
+                <nationNmCn>巴布亞新幾內亞 </nationNmCn>
+                <nationNmEn>Papua New Guinea</nationNmEn>
+                <seq>101365</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>오세아니아</areaNm>
+                <areaNmCn>大洋洲</areaNmCn>
+                <areaNmEn>Oceania</areaNmEn>
+                <createDt>2021-05-26 10:23:03.433</createDt>
+                <natDeathCnt>4</natDeathCnt>
+                <natDeathRate>1.6806722689</natDeathRate>
+                <natDefCnt>238</natDefCnt>
+                <nationNm>피지</nationNm>
+                <nationNmCn>斐濟 </nationNmCn>
+                <nationNmEn>Fiji</nationNmEn>
+                <seq>101364</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>오세아니아</areaNm>
+                <areaNmCn>大洋洲</areaNmCn>
+                <areaNmEn>Oceania</areaNmEn>
+                <createDt>2021-05-26 10:23:03.432</createDt>
+                <natDeathCnt>26</natDeathCnt>
+                <natDeathRate>1.1240812797</natDeathRate>
+                <natDefCnt>2313</natDefCnt>
+                <nationNm>뉴질랜드</nationNm>
+                <nationNmCn>新西兰</nationNmCn>
+                <nationNmEn>New Zealand</nationNmEn>
+                <seq>101363</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>오세아니아</areaNm>
+                <areaNmCn>大洋洲</areaNmCn>
+                <areaNmEn>Oceania</areaNmEn>
+                <createDt>2021-05-26 10:23:03.432</createDt>
+                <natDeathCnt>910</natDeathCnt>
+                <natDeathRate>3.0312114852</natDeathRate>
+                <natDefCnt>30021</natDefCnt>
+                <nationNm>호주</nationNm>
+                <nationNmCn>澳大利亚</nationNmCn>
+                <nationNmEn>Australia</nationNmEn>
+                <seq>101362</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.432</createDt>
+                <natDeathCnt>119194</natDeathCnt>
+                <natDeathRate>2.3754258593</natDeathRate>
+                <natDefCnt>5017795</natDefCnt>
+                <nationNm>러시아</nationNm>
+                <nationNmCn>俄罗斯</nationNmCn>
+                <nationNmEn>Russia</nationNmEn>
+                <seq>101361</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.432</createDt>
+                <natDeathCnt>2230</natDeathCnt>
+                <natDeathRate>2.0799328452</natDeathRate>
+                <natDefCnt>107215</natDefCnt>
+                <nationNm>코소보</nationNm>
+                <nationNmCn>科索沃</nationNmCn>
+                <nationNmEn>Kosovo</nationNmEn>
+                <seq>101360</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.432</createDt>
+                <natDeathCnt>1574</natDeathCnt>
+                <natDeathRate>1.5853670819</natDeathRate>
+                <natDefCnt>99283</natDefCnt>
+                <nationNm>몬테네그로</nationNm>
+                <nationNmCn>黑山共和国</nationNmCn>
+                <nationNmEn>Montegro</nationNmEn>
+                <seq>101359</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.432</createDt>
+                <natDeathCnt>46446</natDeathCnt>
+                <natDeathRate>0.8942223830</natDeathRate>
+                <natDefCnt>5194010</natDefCnt>
+                <nationNm>터키</nationNm>
+                <nationNmCn>土耳其</nationNmCn>
+                <nationNmEn>Turkey</nationNmEn>
+                <seq>101358</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.432</createDt>
+                <natDeathCnt>356</natDeathCnt>
+                <natDeathRate>0.4943689158</natDeathRate>
+                <natDefCnt>72011</natDefCnt>
+                <nationNm>사이프러스</nationNm>
+                <nationNmCn>塞浦路斯</nationNmCn>
+                <nationNmEn>Cyprus</nationNmEn>
+                <seq>101357</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.431</createDt>
+                <natDeathCnt>2445</natDeathCnt>
+                <natDeathRate>1.8492606739</natDeathRate>
+                <natDefCnt>132215</natDefCnt>
+                <nationNm>알바니아</nationNm>
+                <nationNmCn>阿尔巴尼亚</nationNmCn>
+                <nationNmEn>Albania</nationNmEn>
+                <seq>101356</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.431</createDt>
+                <natDeathCnt>6080</natDeathCnt>
+                <natDeathRate>2.3867379024</natDeathRate>
+                <natDefCnt>254741</natDefCnt>
+                <nationNm>몰도바</nationNm>
+                <nationNmCn>摩尔多瓦</nationNmCn>
+                <nationNmEn>Moldova</nationNmEn>
+                <seq>101355</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.431</createDt>
+                <natDeathCnt>418</natDeathCnt>
+                <natDeathRate>1.3700875151</natDeathRate>
+                <natDefCnt>30509</natDefCnt>
+                <nationNm>몰타</nationNm>
+                <nationNmCn>马耳他</nationNmCn>
+                <nationNmEn>Malta</nationNmEn>
+                <seq>101354</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.431</createDt>
+                <natDeathCnt>17513</natDeathCnt>
+                <natDeathRate>4.2025114763</natDeathRate>
+                <natDefCnt>416727</natDefCnt>
+                <nationNm>불가리아</nationNm>
+                <nationNmCn>保加利亚</nationNmCn>
+                <nationNmEn>Bulgaria</nationNmEn>
+                <seq>101353</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.431</createDt>
+                <natDeathCnt>12301</natDeathCnt>
+                <natDeathRate>3.1623246080</natDeathRate>
+                <natDefCnt>388986</natDefCnt>
+                <nationNm>슬로바키아</nationNm>
+                <nationNmCn>斯洛伐克</nationNmCn>
+                <nationNmEn>Slovakia</nationNmEn>
+                <seq>101352</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.431</createDt>
+                <natDeathCnt>6788</natDeathCnt>
+                <natDeathRate>0.9556323602</natDeathRate>
+                <natDefCnt>710315</natDefCnt>
+                <nationNm>세르비아</nationNm>
+                <nationNmCn>塞尔维亚</nationNmCn>
+                <nationNmEn>Serbia</nationNmEn>
+                <seq>101351</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.431</createDt>
+                <natDeathCnt>57</natDeathCnt>
+                <natDeathRate>1.8458549222</natDeathRate>
+                <natDefCnt>3088</natDefCnt>
+                <nationNm>리히텐슈타인</nationNm>
+                <nationNmCn>列支敦士登</nationNmCn>
+                <nationNmEn>Liechtenstein</nationNmEn>
+                <seq>101350</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.43</createDt>
+                <natDeathCnt>4675</natDeathCnt>
+                <natDeathRate>1.8568313520</natDeathRate>
+                <natDefCnt>251773</natDefCnt>
+                <nationNm>슬로베니아</nationNm>
+                <nationNmCn>斯洛文尼亚</nationNmCn>
+                <nationNmEn>Slovenia</nationNmEn>
+                <seq>101349</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.43</createDt>
+                <natDeathCnt>9150</natDeathCnt>
+                <natDeathRate>4.4987241323</natDeathRate>
+                <natDefCnt>203391</natDefCnt>
+                <nationNm>보스니아 헤르체고비나</nationNm>
+                <nationNmCn>波斯尼亚和黑塞哥维那</nationNmCn>
+                <nationNmEn>Bosnia and Herzegovina</nationNmEn>
+                <seq>101348</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.43</createDt>
+                <natDeathCnt>29496</natDeathCnt>
+                <natDeathRate>3.6754682184</natDeathRate>
+                <natDefCnt>802510</natDefCnt>
+                <nationNm>헝가리</nationNm>
+                <nationNmCn>匈牙利</nationNmCn>
+                <nationNmEn>Hungary</nationNmEn>
+                <seq>101347</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.43</createDt>
+                <natDeathCnt>49685</natDeathCnt>
+                <natDeathRate>2.2723915291</natDeathRate>
+                <natDefCnt>2186463</natDefCnt>
+                <nationNm>우크라이나</nationNm>
+                <nationNmCn>乌克兰</nationNmCn>
+                <nationNmEn>Ukraine</nationNmEn>
+                <seq>101346</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.43</createDt>
+                <natDeathCnt>73096</natDeathCnt>
+                <natDeathRate>2.5493977197</natDeathRate>
+                <natDefCnt>2867187</natDefCnt>
+                <nationNm>폴란드</nationNm>
+                <nationNmCn>波兰</nationNmCn>
+                <nationNmEn>Poland</nationNmEn>
+                <seq>101345</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.43</createDt>
+                <natDeathCnt>127</natDeathCnt>
+                <natDeathRate>0.9294496487</natDeathRate>
+                <natDefCnt>13664</natDefCnt>
+                <nationNm>안도라</nationNm>
+                <nationNmCn>安道尔</nationNmCn>
+                <nationNmEn>Andorra</nationNmEn>
+                <seq>101344</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.429</createDt>
+                <natDeathCnt>2328</natDeathCnt>
+                <natDeathRate>1.7760281967</natDeathRate>
+                <natDefCnt>131079</natDefCnt>
+                <nationNm>라트비아</nationNm>
+                <nationNmCn>拉脱维亚</nationNmCn>
+                <nationNmEn>Latvia</nationNmEn>
+                <seq>101343</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.429</createDt>
+                <natDeathCnt>17018</natDeathCnt>
+                <natDeathRate>2.0128568302</natDeathRate>
+                <natDefCnt>845465</natDefCnt>
+                <nationNm>포르투갈</nationNm>
+                <nationNmCn>葡萄牙</nationNmCn>
+                <nationNmEn>Portugal</nationNmEn>
+                <seq>101342</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.429</createDt>
+                <natDeathCnt>30041</natDeathCnt>
+                <natDeathRate>1.8110319765</natDeathRate>
+                <natDefCnt>1658778</natDefCnt>
+                <nationNm>체코</nationNm>
+                <nationNmCn>捷克</nationNmCn>
+                <nationNmEn>Czech Republic</nationNmEn>
+                <seq>101341</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.429</createDt>
+                <natDeathCnt>4941</natDeathCnt>
+                <natDeathRate>1.9106506885</natDeathRate>
+                <natDefCnt>258603</natDefCnt>
+                <nationNm>아일랜드</nationNm>
+                <nationNmCn>爱尔兰</nationNmCn>
+                <nationNmEn>Ireland</nationNmEn>
+                <seq>101340</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.429</createDt>
+                <natDeathCnt>4400</natDeathCnt>
+                <natDeathRate>1.9807417877</natDeathRate>
+                <natDefCnt>222139</natDefCnt>
+                <nationNm>아르메니아</nationNm>
+                <nationNmCn>亚美尼亚</nationNmCn>
+                <nationNmEn>Armenia</nationNmEn>
+                <seq>101339</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.429</createDt>
+                <natDeathCnt>811</natDeathCnt>
+                <natDeathRate>1.1649620776</natDeathRate>
+                <natDefCnt>69616</natDefCnt>
+                <nationNm>룩셈부르크</nationNm>
+                <nationNmCn>卢森堡</nationNmCn>
+                <nationNmEn>Luxemburg</nationNmEn>
+                <seq>101338</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.429</createDt>
+                <natDeathCnt>32</natDeathCnt>
+                <natDeathRate>1.2794882047</natDeathRate>
+                <natDefCnt>2501</natDefCnt>
+                <nationNm>모나코</nationNm>
+                <nationNmCn>摩纳哥</nationNmCn>
+                <nationNmEn>Monaco</nationNmEn>
+                <seq>101337</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.429</createDt>
+                <natDeathCnt>30</natDeathCnt>
+                <natDeathRate>0.4573170731</natDeathRate>
+                <natDefCnt>6560</natDefCnt>
+                <nationNm>아이슬란드</nationNm>
+                <nationNmCn>冰岛</nationNmCn>
+                <nationNmEn>Iceland</nationNmEn>
+                <seq>101336</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.428</createDt>
+                <natDeathCnt>4867</natDeathCnt>
+                <natDeathRate>1.4632753074</natDeathRate>
+                <natDefCnt>332610</natDefCnt>
+                <nationNm>아제르바이잔</nationNm>
+                <nationNmCn>阿塞拜疆</nationNmCn>
+                <nationNmEn>Azerbaijan</nationNmEn>
+                <seq>101335</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.428</createDt>
+                <natDeathCnt>90</natDeathCnt>
+                <natDeathRate>1.7685203379</natDeathRate>
+                <natDefCnt>5089</natDefCnt>
+                <nationNm>산마리노</nationNm>
+                <nationNmCn>圣马力诺</nationNmCn>
+                <nationNmEn>San Marino</nationNmEn>
+                <seq>101334</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.428</createDt>
+                <natDeathCnt>4209</natDeathCnt>
+                <natDeathRate>1.5492377117</natDeathRate>
+                <natDefCnt>271682</natDefCnt>
+                <nationNm>리투아니아</nationNm>
+                <nationNmCn>立陶宛</nationNmCn>
+                <nationNmEn>Lithuania</nationNmEn>
+                <seq>101333</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.428</createDt>
+                <natDeathCnt>2791</natDeathCnt>
+                <natDeathRate>0.7196674728</natDeathRate>
+                <natDefCnt>387818</natDefCnt>
+                <nationNm>벨라루스</nationNm>
+                <nationNmCn>白俄罗斯</nationNmCn>
+                <nationNmEn>Belarus</nationNmEn>
+                <seq>101332</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.428</createDt>
+                <natDeathCnt>17553</natDeathCnt>
+                <natDeathRate>1.0775838253</natDeathRate>
+                <natDefCnt>1628922</natDefCnt>
+                <nationNm>네덜란드</nationNm>
+                <nationNmCn>荷兰</nationNmCn>
+                <nationNmEn>Netherlands</nationNmEn>
+                <seq>101331</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:03.428</createDt>
+                <natDeathCnt>29977</natDeathCnt>
+                <natDeathRate>2.7865544125</natDeathRate>
+                <natDefCnt>1075773</natDefCnt>
+                <nationNm>루마니아</nationNm>
+                <nationNmCn>罗马尼亚</nationNmCn>
+                <nationNmEn>Romania</nationNmEn>
+                <seq>101330</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.476</createDt>
+                <natDeathCnt>782</natDeathCnt>
+                <natDeathRate>0.6377946333</natDeathRate>
+                <natDefCnt>122610</natDefCnt>
+                <nationNm>노르웨이</nationNm>
+                <nationNmCn>挪威</nationNmCn>
+                <nationNmEn>Norway</nationNmEn>
+                <seq>101329</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.476</createDt>
+                <natDeathCnt>5329</natDeathCnt>
+                <natDeathRate>3.4365790271</natDeathRate>
+                <natDefCnt>155067</natDefCnt>
+                <nationNm>북마케도니아</nationNm>
+                <nationNmCn>北马其顿</nationNmCn>
+                <nationNmEn>North Macedonia</nationNmEn>
+                <seq>101328</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.476</createDt>
+                <natDeathCnt>11822</natDeathCnt>
+                <natDeathRate>3.0221304204</natDeathRate>
+                <natDefCnt>391181</natDefCnt>
+                <nationNm>그리스</nationNm>
+                <nationNmCn>希腊</nationNmCn>
+                <nationNmEn>Greece</nationNmEn>
+                <seq>101327</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.476</createDt>
+                <natDeathCnt>4654</natDeathCnt>
+                <natDeathRate>1.3715868735</natDeathRate>
+                <natDefCnt>339315</natDefCnt>
+                <nationNm>조지아</nationNm>
+                <nationNmCn>格鲁吉亚</nationNmCn>
+                <nationNmEn>Georgia</nationNmEn>
+                <seq>101326</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.476</createDt>
+                <natDeathCnt>1241</natDeathCnt>
+                <natDeathRate>0.9632924263</natDeathRate>
+                <natDefCnt>128829</natDefCnt>
+                <nationNm>에스토니아</nationNm>
+                <nationNmCn>爱沙尼亚</nationNmCn>
+                <nationNmEn>Estonia</nationNmEn>
+                <seq>101325</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.476</createDt>
+                <natDeathCnt>2509</natDeathCnt>
+                <natDeathRate>0.9143152838</natDeathRate>
+                <natDefCnt>274413</natDefCnt>
+                <nationNm>덴마크</nationNm>
+                <nationNmCn>丹麦</nationNmCn>
+                <nationNmEn>Denmark</nationNmEn>
+                <seq>101324</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.475</createDt>
+                <natDeathCnt>24853</natDeathCnt>
+                <natDeathRate>2.3673537037</natDeathRate>
+                <natDefCnt>1049822</natDefCnt>
+                <nationNm>벨기에</nationNm>
+                <nationNmCn>比利时</nationNmCn>
+                <nationNmEn>Belgium</nationNmEn>
+                <seq>101323</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.475</createDt>
+                <natDeathCnt>10169</natDeathCnt>
+                <natDeathRate>1.4861201435</natDeathRate>
+                <natDefCnt>684265</natDefCnt>
+                <nationNm>스위스</nationNm>
+                <nationNmCn>瑞士</nationNmCn>
+                <nationNmEn>Switzerland</nationNmEn>
+                <seq>101322</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.475</createDt>
+                <natDeathCnt>14366</natDeathCnt>
+                <natDeathRate>1.3574074896</natDeathRate>
+                <natDefCnt>1058341</natDefCnt>
+                <nationNm>스웨덴</nationNm>
+                <nationNmCn>瑞典</nationNmCn>
+                <nationNmEn>Sweden</nationNmEn>
+                <seq>101321</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.475</createDt>
+                <natDeathCnt>939</natDeathCnt>
+                <natDeathRate>1.0248965825</natDeathRate>
+                <natDefCnt>91619</natDefCnt>
+                <nationNm>핀란드</nationNm>
+                <nationNmCn>芬兰</nationNmCn>
+                <nationNmEn>Finland</nationNmEn>
+                <seq>101320</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.475</createDt>
+                <natDeathCnt>7950</natDeathCnt>
+                <natDeathRate>2.2433356001</natDeathRate>
+                <natDefCnt>354383</natDefCnt>
+                <nationNm>크로아티아</nationNm>
+                <nationNmCn>克罗地亚</nationNmCn>
+                <nationNmEn>Croatia</nationNmEn>
+                <seq>101319</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.475</createDt>
+                <natDeathCnt>10286</natDeathCnt>
+                <natDeathRate>1.6129259882</natDeathRate>
+                <natDefCnt>637723</natDefCnt>
+                <nationNm>오스트리아</nationNm>
+                <nationNmCn>奥地利</nationNmCn>
+                <nationNmEn>Austria</nationNmEn>
+                <seq>101318</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.474</createDt>
+                <natDeathCnt>79711</natDeathCnt>
+                <natDeathRate>2.1853478527</natDeathRate>
+                <natDefCnt>3647520</natDefCnt>
+                <nationNm>스페인</nationNm>
+                <nationNmCn>西班牙</nationNmCn>
+                <nationNmEn>Spain</nationNmEn>
+                <seq>101317</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.474</createDt>
+                <natDeathCnt>127724</natDeathCnt>
+                <natDeathRate>2.8606214153</natDeathRate>
+                <natDefCnt>4464904</natDefCnt>
+                <nationNm>영국</nationNm>
+                <nationNmCn>英国</nationNmCn>
+                <nationNmEn>United Kingdom</nationNmEn>
+                <seq>101316</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.474</createDt>
+                <natDeathCnt>107863</natDeathCnt>
+                <natDeathRate>1.9583645768</natDeathRate>
+                <natDefCnt>5507810</natDefCnt>
+                <nationNm>프랑스</nationNm>
+                <nationNmCn>法国</nationNmCn>
+                <nationNmEn>France</nationNmEn>
+                <seq>101315</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.474</createDt>
+                <natDeathCnt>87456</natDeathCnt>
+                <natDeathRate>2.3937259942</natDeathRate>
+                <natDefCnt>3653551</natDefCnt>
+                <nationNm>독일</nationNm>
+                <nationNmCn>德国</nationNmCn>
+                <nationNmEn>Germany</nationNmEn>
+                <seq>101314</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>유럽</areaNm>
+                <areaNmCn>欧洲</areaNmCn>
+                <areaNmEn>Europe</areaNmEn>
+                <createDt>2021-05-26 10:23:01.474</createDt>
+                <natDeathCnt>125335</natDeathCnt>
+                <natDeathRate>2.9879571036</natDeathRate>
+                <natDefCnt>4194672</natDefCnt>
+                <nationNm>이탈리아</nationNm>
+                <nationNmCn>意大利</nationNmCn>
+                <nationNmEn>Italy</nationNmEn>
+                <seq>101313</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.474</createDt>
+                <natDeathCnt>249</natDeathCnt>
+                <natDeathRate>1.8991686370</natDeathRate>
+                <natDefCnt>13111</natDefCnt>
+                <nationNm>수리남</nationNm>
+                <nationNmCn>苏里南</nationNmCn>
+                <nationNmEn>Suriname</nationNmEn>
+                <seq>101312</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.474</createDt>
+                <natDeathCnt>359</natDeathCnt>
+                <natDeathRate>2.2256664600</natDeathRate>
+                <natDefCnt>16130</natDefCnt>
+                <nationNm>가이아나</nationNm>
+                <nationNmCn>圭亚那</nationNmCn>
+                <nationNmEn>Guyana</nationNmEn>
+                <seq>101311</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.473</createDt>
+                <natDeathCnt>2513</natDeathCnt>
+                <natDeathRate>1.1251651033</natDeathRate>
+                <natDefCnt>223345</natDefCnt>
+                <nationNm>베네수엘라</nationNm>
+                <nationNmCn>委内瑞拉</nationNmCn>
+                <nationNmEn>Venezuela</nationNmEn>
+                <seq>101310</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.473</createDt>
+                <natDeathCnt>8360</natDeathCnt>
+                <natDeathRate>2.5107291625</natDeathRate>
+                <natDefCnt>332971</natDefCnt>
+                <nationNm>파라과이</nationNm>
+                <nationNmCn>巴拉圭</nationNmCn>
+                <nationNmEn>Paraguay</nationNmEn>
+                <seq>101309</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.473</createDt>
+                <natDeathCnt>3871</natDeathCnt>
+                <natDeathRate>1.4602147130</natDeathRate>
+                <natDefCnt>265098</natDefCnt>
+                <nationNm>우루과이</nationNm>
+                <nationNmCn>乌拉圭</nationNmCn>
+                <nationNmEn>Uruguay</nationNmEn>
+                <seq>101308</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.473</createDt>
+                <natDeathCnt>13965</natDeathCnt>
+                <natDeathRate>3.9939597257</natDeathRate>
+                <natDefCnt>349653</natDefCnt>
+                <nationNm>볼리비아</nationNm>
+                <nationNmCn>玻利维亚</nationNmCn>
+                <nationNmEn>Bolivia</nationNmEn>
+                <seq>101307</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.472</createDt>
+                <natDeathCnt>74063</natDeathCnt>
+                <natDeathRate>2.0924801468</natDeathRate>
+                <natDefCnt>3539484</natDefCnt>
+                <nationNm>아르헨티나</nationNm>
+                <nationNmCn>阿根廷</nationNmCn>
+                <nationNmEn>Argentina</nationNmEn>
+                <seq>101306</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.472</createDt>
+                <natDeathCnt>84724</natDeathCnt>
+                <natDeathRate>2.6210410907</natDeathRate>
+                <natDefCnt>3232456</natDefCnt>
+                <nationNm>콜롬비아</nationNm>
+                <nationNmCn>哥伦比亚</nationNmCn>
+                <nationNmEn>Columbia</nationNmEn>
+                <seq>101305</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.472</createDt>
+                <natDeathCnt>28548</natDeathCnt>
+                <natDeathRate>2.1380089735</natDeathRate>
+                <natDefCnt>1335261</natDefCnt>
+                <nationNm>칠레</nationNm>
+                <nationNmCn>智利</nationNmCn>
+                <nationNmEn>Chile</nationNmEn>
+                <seq>101304</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.472</createDt>
+                <natDeathCnt>20210</natDeathCnt>
+                <natDeathRate>4.8211107877</natDeathRate>
+                <natDefCnt>419198</natDefCnt>
+                <nationNm>에콰도르</nationNm>
+                <nationNmCn>厄瓜多尔</nationNmCn>
+                <nationNmEn>Ecuador</nationNmEn>
+                <seq>101303</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.472</createDt>
+                <natDeathCnt>68053</natDeathCnt>
+                <natDeathRate>3.5346901166</natDeathRate>
+                <natDefCnt>1925289</natDefCnt>
+                <nationNm>페루</nationNm>
+                <nationNmCn>秘鲁</nationNmCn>
+                <nationNmEn>Peru</nationNmEn>
+                <seq>101302</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.472</createDt>
+                <natDeathCnt>449068</natDeathCnt>
+                <natDeathRate>2.7921457207</natDeathRate>
+                <natDefCnt>16083258</natDefCnt>
+                <nationNm>브라질</nationNm>
+                <nationNmCn>巴西</nationNmCn>
+                <nationNmEn>Brazil</nationNmEn>
+                <seq>101301</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.471</createDt>
+                <natDeathCnt>0</natDeathCnt>
+                <natDeathRate>0.0</natDeathRate>
+                <natDefCnt>54</natDefCnt>
+                <nationNm>세인트키츠네비스</nationNm>
+                <nationNmCn>聖基茨和尼維斯</nationNmCn>
+                <nationNmEn>Saint Kitts and Nevis</nationNmEn>
+                <seq>101300</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.471</createDt>
+                <natDeathCnt>0</natDeathCnt>
+                <natDeathRate>0.0</natDeathRate>
+                <natDefCnt>184</natDefCnt>
+                <nationNm>도미니카연방</nationNm>
+                <nationNmCn>多米尼加聯邦</nationNmCn>
+                <nationNmEn>Commonwealth of Dominica</nationNmEn>
+                <seq>101299</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.471</createDt>
+                <natDeathCnt>12</natDeathCnt>
+                <natDeathRate>0.6033182503</natDeathRate>
+                <natDefCnt>1989</natDefCnt>
+                <nationNm>세인트빈센트그레나딘</nationNm>
+                <nationNmCn>圣文森特和格林纳丁斯</nationNmCn>
+                <nationNmEn>Saint Vincent and the Grenadines</nationNmEn>
+                <seq>101298</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.471</createDt>
+                <natDeathCnt>77</natDeathCnt>
+                <natDeathRate>1.5571284125</natDeathRate>
+                <natDefCnt>4945</natDefCnt>
+                <nationNm>세인트루시아</nationNm>
+                <nationNmCn>圣卢西亚</nationNmCn>
+                <nationNmEn>Saint Lucia</nationNmEn>
+                <seq>101297</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.47</createDt>
+                <natDeathCnt>1</natDeathCnt>
+                <natDeathRate>0.6211180124</natDeathRate>
+                <natDefCnt>161</natDefCnt>
+                <nationNm>그레나다</nationNm>
+                <nationNmCn>格林納達</nationNmCn>
+                <nationNmEn>Grenada</nationNmEn>
+                <seq>101296</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.47</createDt>
+                <natDeathCnt>42</natDeathCnt>
+                <natDeathRate>3.3412887828</natDeathRate>
+                <natDefCnt>1257</natDefCnt>
+                <nationNm>앤티가바부다</nationNm>
+                <nationNmCn>安提瓜和巴布达</nationNmCn>
+                <nationNmEn>Antigua and Barbuda</nationNmEn>
+                <seq>101295</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.47</createDt>
+                <natDeathCnt>47</natDeathCnt>
+                <natDeathRate>1.1755877938</natDeathRate>
+                <natDefCnt>3998</natDefCnt>
+                <nationNm>바베이도스</nationNm>
+                <nationNmCn>巴巴多斯</nationNmCn>
+                <nationNmEn>Barbados</nationNmEn>
+                <seq>101294</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.47</createDt>
+                <natDeathCnt>226</natDeathCnt>
+                <natDeathRate>1.9563711911</natDeathRate>
+                <natDefCnt>11552</natDefCnt>
+                <nationNm>바하마</nationNm>
+                <nationNmCn>巴哈马群岛</nationNmCn>
+                <nationNmEn>Bahamas</nationNmEn>
+                <seq>101293</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.47</createDt>
+                <natDeathCnt>288</natDeathCnt>
+                <natDeathRate>2.0710484682</natDeathRate>
+                <natDefCnt>13906</natDefCnt>
+                <nationNm>아이티</nationNm>
+                <nationNmCn>海地</nationNmCn>
+                <nationNmEn>Haiti</nationNmEn>
+                <seq>101292</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.47</createDt>
+                <natDeathCnt>375</natDeathCnt>
+                <natDeathRate>1.8734076035</natDeathRate>
+                <natDefCnt>20017</natDefCnt>
+                <nationNm>트리니다드토바고</nationNm>
+                <nationNmCn>特立尼达和多巴哥</nationNmCn>
+                <nationNmEn>Trinidad and Tobago</nationNmEn>
+                <seq>101291</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.469</createDt>
+                <natDeathCnt>925</natDeathCnt>
+                <natDeathRate>1.9249178008</natDeathRate>
+                <natDefCnt>48054</natDefCnt>
+                <nationNm>자메이카</nationNm>
+                <nationNmCn>牙买加</nationNmCn>
+                <nationNmEn>Jamaica</nationNmEn>
+                <seq>101290</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.469</createDt>
+                <natDeathCnt>890</natDeathCnt>
+                <natDeathRate>0.6631497377</natDeathRate>
+                <natDefCnt>134208</natDefCnt>
+                <nationNm>쿠바</nationNm>
+                <nationNmCn>古巴</nationNmCn>
+                <nationNmEn>Cuba</nationNmEn>
+                <seq>101289</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.469</createDt>
+                <natDeathCnt>3610</natDeathCnt>
+                <natDeathRate>1.2685940393</natDeathRate>
+                <natDefCnt>284567</natDefCnt>
+                <nationNm>도미니카공화국</nationNm>
+                <nationNmCn>多米尼加共和国</nationNmCn>
+                <nationNmEn>Dominican Republic</nationNmEn>
+                <seq>101288</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.469</createDt>
+                <natDeathCnt>185</natDeathCnt>
+                <natDeathRate>3.2280579305</natDeathRate>
+                <natDefCnt>5731</natDefCnt>
+                <nationNm>니카라구아</nationNm>
+                <nationNmCn>尼加拉瓜</nationNmCn>
+                <nationNmEn>Nicaragua</nationNmEn>
+                <seq>101287</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.469</createDt>
+                <natDeathCnt>323</natDeathCnt>
+                <natDeathRate>2.5305546850</natDeathRate>
+                <natDefCnt>12764</natDefCnt>
+                <nationNm>벨리즈</nationNm>
+                <nationNmCn>伯利</nationNmCn>
+                <nationNmEn>Belize</nationNmEn>
+                <seq>101286</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.469</createDt>
+                <natDeathCnt>2220</natDeathCnt>
+                <natDeathRate>3.0739407366</natDeathRate>
+                <natDefCnt>72220</natDefCnt>
+                <nationNm>엘살바도르</nationNm>
+                <nationNmCn>萨尔瓦多</nationNmCn>
+                <nationNmEn>Elsalvador</nationNmEn>
+                <seq>101285</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.468</createDt>
+                <natDeathCnt>3820</natDeathCnt>
+                <natDeathRate>1.2591054418</natDeathRate>
+                <natDefCnt>303390</natDefCnt>
+                <nationNm>코스타리카</nationNm>
+                <nationNmCn>哥斯达黎加</nationNmCn>
+                <nationNmEn>Costa Rica</nationNmEn>
+                <seq>101284</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.468</createDt>
+                <natDeathCnt>8009</natDeathCnt>
+                <natDeathRate>3.2340779506</natDeathRate>
+                <natDefCnt>247644</natDefCnt>
+                <nationNm>과테말라</nationNm>
+                <nationNmCn>危地马拉</nationNmCn>
+                <nationNmEn>Guatemala</nationNmEn>
+                <seq>101283</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.468</createDt>
+                <natDeathCnt>6146</natDeathCnt>
+                <natDeathRate>2.6414867280</natDeathRate>
+                <natDefCnt>232672</natDefCnt>
+                <nationNm>온두라스</nationNm>
+                <nationNmCn>洪都拉斯</nationNmCn>
+                <nationNmEn>Honduras</nationNmEn>
+                <seq>101282</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.468</createDt>
+                <natDeathCnt>6331</natDeathCnt>
+                <natDeathRate>1.6922332614</natDeathRate>
+                <natDefCnt>374121</natDefCnt>
+                <nationNm>파나마</nationNm>
+                <nationNmCn>巴拿马</nationNmCn>
+                <nationNmEn>Panama</nationNmEn>
+                <seq>101281</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.468</createDt>
+                <natDeathCnt>221647</natDeathCnt>
+                <natDeathRate>9.2483781217</natDeathRate>
+                <natDefCnt>2396604</natDefCnt>
+                <nationNm>멕시코</nationNm>
+                <nationNmCn>墨西哥</nationNmCn>
+                <nationNmEn>Mexico</nationNmEn>
+                <seq>101280</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.468</createDt>
+                <natDeathCnt>25162</natDeathCnt>
+                <natDeathRate>1.8609281269</natDeathRate>
+                <natDefCnt>1352121</natDefCnt>
+                <nationNm>캐나다</nationNm>
+                <nationNmCn>加拿大</nationNmCn>
+                <nationNmEn>Canada</nationNmEn>
+                <seq>101279</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아메리카</areaNm>
+                <areaNmCn>美洲</areaNmCn>
+                <areaNmEn>America</areaNmEn>
+                <createDt>2021-05-26 10:23:01.468</createDt>
+                <natDeathCnt>584700</natDeathCnt>
+                <natDeathRate>1.7827375574</natDeathRate>
+                <natDefCnt>32797873</natDefCnt>
+                <nationNm>미국</nationNm>
+                <nationNmCn>美国</nationNmCn>
+                <nationNmEn>United States of America</nationNmEn>
+                <seq>101278</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.467</createDt>
+                <natDeathCnt>1311</natDeathCnt>
+                <natDeathRate>19.666966696</natDeathRate>
+                <natDefCnt>6666</natDefCnt>
+                <nationNm>예멘</nationNm>
+                <nationNmCn>也門</nationNmCn>
+                <nationNmEn>Yemen</nationNmEn>
+                <seq>101277</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.467</createDt>
+                <natDeathCnt>3426</natDeathCnt>
+                <natDeathRate>2.6953668956</natDeathRate>
+                <natDefCnt>127107</natDefCnt>
+                <nationNm>알제리</nationNm>
+                <nationNmCn>阿尔及利亚</nationNmCn>
+                <nationNmEn>Algeria</nationNmEn>
+                <seq>101276</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.467</createDt>
+                <natDeathCnt>1654</natDeathCnt>
+                <natDeathRate>0.2966183003</natDeathRate>
+                <natDefCnt>557619</natDefCnt>
+                <nationNm>아랍에미리트</nationNm>
+                <nationNmCn>阿拉伯联合酋长国</nationNmCn>
+                <nationNmEn>United Arab Emirates</nationNmEn>
+                <seq>101275</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.467</createDt>
+                <natDeathCnt>6406</natDeathCnt>
+                <natDeathRate>0.7631878042</natDeathRate>
+                <natDefCnt>839374</natDefCnt>
+                <nationNm>이스라엘</nationNm>
+                <nationNmCn>以色列</nationNmCn>
+                <nationNmEn>Israel</nationNmEn>
+                <seq>101274</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.467</createDt>
+                <natDeathCnt>12273</natDeathCnt>
+                <natDeathRate>3.6481834882</natDeathRate>
+                <natDefCnt>336414</natDefCnt>
+                <nationNm>튀니지</nationNm>
+                <nationNmCn>突尼斯</nationNmCn>
+                <nationNmEn>Tunisia</nationNmEn>
+                <seq>101273</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.467</createDt>
+                <natDeathCnt>1740</natDeathCnt>
+                <natDeathRate>7.1939471616</natDeathRate>
+                <natDefCnt>24187</natDefCnt>
+                <nationNm>시리아</nationNm>
+                <nationNmCn>利亞</nationNmCn>
+                <nationNmEn>Syria</nationNmEn>
+                <seq>101272</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.467</createDt>
+                <natDeathCnt>7264</natDeathCnt>
+                <natDeathRate>1.6431749651</natDeathRate>
+                <natDefCnt>442071</natDefCnt>
+                <nationNm>사우디아라비아</nationNm>
+                <nationNmCn>沙特阿拉伯</nationNmCn>
+                <nationNmEn>Saudi Arabia</nationNmEn>
+                <seq>101271</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.466</createDt>
+                <natDeathCnt>547</natDeathCnt>
+                <natDeathRate>0.2535435844</natDeathRate>
+                <natDefCnt>215742</natDefCnt>
+                <nationNm>카타르</nationNm>
+                <nationNmCn>卡塔尔</nationNmCn>
+                <nationNmEn>Qatar</nationNmEn>
+                <seq>101270</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.466</createDt>
+                <natDeathCnt>2274</natDeathCnt>
+                <natDeathRate>1.0765974974</natDeathRate>
+                <natDefCnt>211221</natDefCnt>
+                <nationNm>오만</nationNm>
+                <nationNmCn>阿曼</nationNmCn>
+                <nationNmEn>Oman</nationNmEn>
+                <seq>101269</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.466</createDt>
+                <natDeathCnt>9126</natDeathCnt>
+                <natDeathRate>1.7647980228</natDeathRate>
+                <natDefCnt>517113</natDefCnt>
+                <nationNm>모로코</nationNm>
+                <nationNmCn>摩洛哥</nationNmCn>
+                <nationNmEn>Morocco</nationNmEn>
+                <seq>101268</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.466</createDt>
+                <natDeathCnt>3112</natDeathCnt>
+                <natDeathRate>1.6950629657</natDeathRate>
+                <natDefCnt>183592</natDefCnt>
+                <nationNm>리비아</nationNm>
+                <nationNmCn>利比亞</nationNmCn>
+                <nationNmEn>Libya</nationNmEn>
+                <seq>101267</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.466</createDt>
+                <natDeathCnt>7684</natDeathCnt>
+                <natDeathRate>1.4264816176</natDeathRate>
+                <natDefCnt>538668</natDefCnt>
+                <nationNm>레바논</nationNm>
+                <nationNmCn>黎巴嫩</nationNmCn>
+                <nationNmEn>Lebanon</nationNmEn>
+                <seq>101266</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.466</createDt>
+                <natDeathCnt>1741</natDeathCnt>
+                <natDeathRate>0.5794544940</natDeathRate>
+                <natDefCnt>300455</natDefCnt>
+                <nationNm>쿠웨이트</nationNm>
+                <nationNmCn>科威特</nationNmCn>
+                <nationNmEn>Kuwait</nationNmEn>
+                <seq>101265</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.466</createDt>
+                <natDeathCnt>9384</natDeathCnt>
+                <natDeathRate>1.2829557199</natDeathRate>
+                <natDefCnt>731436</natDefCnt>
+                <nationNm>요르단</nationNm>
+                <nationNmCn>约旦</nationNmCn>
+                <nationNmEn>Jordan</nationNmEn>
+                <seq>101264</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.465</createDt>
+                <natDeathCnt>16214</natDeathCnt>
+                <natDeathRate>1.3833975232</natDeathRate>
+                <natDefCnt>1172042</natDefCnt>
+                <nationNm>이라크</nationNm>
+                <nationNmCn>伊拉克</nationNmCn>
+                <nationNmEn>Iraq</nationNmEn>
+                <seq>101263</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.465</createDt>
+                <natDeathCnt>14766</natDeathCnt>
+                <natDeathRate>5.7909515891</natDeathRate>
+                <natDefCnt>254984</natDefCnt>
+                <nationNm>이집트</nationNm>
+                <nationNmCn>埃及</nationNmCn>
+                <nationNmEn>Egypt</nationNmEn>
+                <seq>101262</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.465</createDt>
+                <natDeathCnt>848</natDeathCnt>
+                <natDeathRate>0.3839762369</natDeathRate>
+                <natDefCnt>220847</natDefCnt>
+                <nationNm>바레인</nationNm>
+                <nationNmCn>巴林</nationNmCn>
+                <nationNmEn>Bahrain</nationNmEn>
+                <seq>101261</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>중동</areaNm>
+                <areaNmCn>中东</areaNmCn>
+                <areaNmEn>Middle East</areaNmEn>
+                <createDt>2021-05-26 10:23:01.465</createDt>
+                <natDeathCnt>78848</natDeathCnt>
+                <natDeathRate>2.7728982673</natDeathRate>
+                <natDefCnt>2843523</natDefCnt>
+                <nationNm>이란</nationNm>
+                <nationNmCn>伊朗</nationNmCn>
+                <nationNmEn>Iran</nationNmEn>
+                <seq>101260</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.465</createDt>
+                <natDeathCnt>91</natDeathCnt>
+                <natDeathRate>0.6635554907</natDeathRate>
+                <natDefCnt>13714</natDefCnt>
+                <nationNm>타지키스탄</nationNm>
+                <nationNmCn>塔吉克斯坦</nationNmCn>
+                <nationNmEn>Tajikistan</nationNmEn>
+                <seq>101259</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.465</createDt>
+                <natDeathCnt>2</natDeathCnt>
+                <natDeathRate>0.1097694840</natDeathRate>
+                <natDefCnt>1822</natDefCnt>
+                <nationNm>라오스</nationNm>
+                <nationNmCn>老撾</nationNmCn>
+                <nationNmEn>Laos</nationNmEn>
+                <seq>101258</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.464</createDt>
+                <natDeathCnt>3216</natDeathCnt>
+                <natDeathRate>2.2448381287</natDeathRate>
+                <natDefCnt>143262</natDefCnt>
+                <nationNm>미얀마</nationNm>
+                <nationNmCn>緬甸</nationNmCn>
+                <nationNmEn>Myanmar</nationNmEn>
+                <seq>101257</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.464</createDt>
+                <natDeathCnt>14</natDeathCnt>
+                <natDeathRate>0.2327901563</natDeathRate>
+                <natDefCnt>6014</natDefCnt>
+                <nationNm>동티모르</nationNm>
+                <nationNmCn>東帝汶</nationNmCn>
+                <nationNmEn>East Timor</nationNmEn>
+                <seq>101256</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.464</createDt>
+                <natDeathCnt>1765</natDeathCnt>
+                <natDeathRate>1.7135922330</natDeathRate>
+                <natDefCnt>103000</natDefCnt>
+                <nationNm>키르기스스탄</nationNm>
+                <nationNmCn>吉尔吉斯斯坦</nationNmCn>
+                <nationNmEn>Kyrgyzstan</nationNmEn>
+                <seq>101255</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.464</createDt>
+                <natDeathCnt>682</natDeathCnt>
+                <natDeathRate>0.6899412234</natDeathRate>
+                <natDefCnt>98849</natDefCnt>
+                <nationNm>우즈베키스탄</nationNm>
+                <nationNmCn>乌兹别克斯坦</nationNmCn>
+                <nationNmEn>Uzbekistan</nationNmEn>
+                <seq>101254</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.464</createDt>
+                <natDeathCnt>7149</natDeathCnt>
+                <natDeathRate>1.6575354217</natDeathRate>
+                <natDefCnt>431303</natDefCnt>
+                <nationNm>카자흐스탄</nationNm>
+                <nationNmCn>哈萨克斯坦</nationNmCn>
+                <nationNmEn>Kazakhstan</nationNmEn>
+                <seq>101253</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.464</createDt>
+                <natDeathCnt>253</natDeathCnt>
+                <natDeathRate>0.4764595103</natDeathRate>
+                <natDefCnt>53100</natDefCnt>
+                <nationNm>몽골</nationNm>
+                <nationNmCn>蒙古</nationNmCn>
+                <nationNmEn>Mongolia</nationNmEn>
+                <seq>101252</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.463</createDt>
+                <natDeathCnt>3</natDeathCnt>
+                <natDeathRate>1.2711864406</natDeathRate>
+                <natDefCnt>236</natDefCnt>
+                <nationNm>브루나이</nationNm>
+                <nationNmCn>文莱</nationNmCn>
+                <nationNmEn>Brunei</nationNmEn>
+                <seq>101251</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.463</createDt>
+                <natDeathCnt>12401</natDeathCnt>
+                <natDeathRate>1.5687122796</natDeathRate>
+                <natDefCnt>790521</natDefCnt>
+                <nationNm>방글라데시</nationNm>
+                <nationNmCn>孟加拉国</nationNmCn>
+                <nationNmEn>Bangladesh</nationNmEn>
+                <seq>101250</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.463</createDt>
+                <natDeathCnt>144</natDeathCnt>
+                <natDeathRate>0.2511292094</natDeathRate>
+                <natDefCnt>57341</natDefCnt>
+                <nationNm>몰디브</nationNm>
+                <nationNmCn>马尔代夫</nationNmCn>
+                <nationNmEn>Maldives</nationNmEn>
+                <seq>101249</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.463</createDt>
+                <natDeathCnt>1</natDeathCnt>
+                <natDeathRate>0.0708717221</natDeathRate>
+                <natDefCnt>1411</natDefCnt>
+                <nationNm>부탄</nationNm>
+                <nationNmCn>不丹</nationNmCn>
+                <nationNmEn>Bhutan</nationNmEn>
+                <seq>101248</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.463</createDt>
+                <natDeathCnt>49455</natDeathCnt>
+                <natDeathRate>2.7766127850</natDeathRate>
+                <natDefCnt>1781127</natDefCnt>
+                <nationNm>인도네시아</nationNm>
+                <nationNmCn>印度尼西亚</nationNmCn>
+                <nationNmEn>Indonesia</nationNmEn>
+                <seq>101247</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.463</createDt>
+                <natDeathCnt>20308</natDeathCnt>
+                <natDeathRate>2.2474571131</natDeathRate>
+                <natDefCnt>903599</natDefCnt>
+                <nationNm>파키스탄</nationNm>
+                <nationNmCn>巴基斯坦</nationNmCn>
+                <nationNmEn>Pakistan</nationNmEn>
+                <seq>101246</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.463</createDt>
+                <natDeathCnt>2836</natDeathCnt>
+                <natDeathRate>4.2389728412</natDeathRate>
+                <natDefCnt>66903</natDefCnt>
+                <nationNm>아프가니스탄</nationNm>
+                <nationNmCn>阿富汗</nationNmCn>
+                <nationNmEn>Afghanistan</nationNmEn>
+                <seq>101245</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.462</createDt>
+                <natDeathCnt>1243</natDeathCnt>
+                <natDeathRate>0.7435455698</natDeathRate>
+                <natDefCnt>167172</natDefCnt>
+                <nationNm>스리랑카</nationNm>
+                <nationNmCn>斯里兰卡</nationNmCn>
+                <nationNmEn>Sri Lanka</nationNmEn>
+                <seq>101244</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.462</createDt>
+                <natDeathCnt>6531</natDeathCnt>
+                <natDeathRate>1.2548490665</natDeathRate>
+                <natDefCnt>520461</natDefCnt>
+                <nationNm>네팔</nationNm>
+                <nationNmCn>尼泊尔</nationNmCn>
+                <nationNmEn>Nepal</nationNmEn>
+                <seq>101243</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.462</createDt>
+                <natDeathCnt>179</natDeathCnt>
+                <natDeathRate>0.6948488024</natDeathRate>
+                <natDefCnt>25761</natDefCnt>
+                <nationNm>캄보디아</nationNm>
+                <nationNmCn>柬埔寨</nationNmCn>
+                <nationNmEn>Cambodia</nationNmEn>
+                <seq>101242</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.462</createDt>
+                <natDeathCnt>19983</natDeathCnt>
+                <natDeathRate>1.6867475981</natDeathRate>
+                <natDefCnt>1184706</natDefCnt>
+                <nationNm>필리핀</nationNm>
+                <nationNmCn>菲律宾</nationNmCn>
+                <nationNmEn>Philippines</nationNmEn>
+                <seq>101241</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.462</createDt>
+                <natDeathCnt>307231</natDeathCnt>
+                <natDeathRate>1.1400513431</natDeathRate>
+                <natDefCnt>26948874</natDefCnt>
+                <nationNm>인도</nationNm>
+                <nationNmCn>印度</nationNmCn>
+                <nationNmEn>India</nationNmEn>
+                <seq>101240</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.462</createDt>
+                <natDeathCnt>44</natDeathCnt>
+                <natDeathRate>0.8057132393</natDeathRate>
+                <natDefCnt>5461</natDefCnt>
+                <nationNm>베트남</nationNm>
+                <nationNmCn>越南</nationNmCn>
+                <nationNmEn>Vietnam</nationNmEn>
+                <seq>101239</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.461</createDt>
+                <natDeathCnt>2309</natDeathCnt>
+                <natDeathRate>0.4452371770</natDeathRate>
+                <natDefCnt>518600</natDefCnt>
+                <nationNm>말레이시아</nationNm>
+                <nationNmCn>马来西亚</nationNmCn>
+                <nationNmEn>Malaysia</nationNmEn>
+                <seq>101238</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.461</createDt>
+                <natDeathCnt>832</natDeathCnt>
+                <natDeathRate>0.6142986879</natDeathRate>
+                <natDefCnt>135439</natDefCnt>
+                <nationNm>태국</nationNm>
+                <nationNmCn>泰国</nationNmCn>
+                <nationNmEn>Thailand</nationNmEn>
+                <seq>101237</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.461</createDt>
+                <natDeathCnt>32</natDeathCnt>
+                <natDeathRate>0.0517297122</natDeathRate>
+                <natDefCnt>61860</natDefCnt>
+                <nationNm>싱가포르</nationNm>
+                <nationNmCn>新加坡</nationNmCn>
+                <nationNmEn>Singapore</nationNmEn>
+                <seq>101236</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.461</createDt>
+                <natDeathCnt>12398</natDeathCnt>
+                <natDeathRate>1.7173838362</natDeathRate>
+                <natDefCnt>721912</natDefCnt>
+                <nationNm>일본</nationNm>
+                <nationNmCn>日本</nationNmCn>
+                <nationNmEn>Japan</nationNmEn>
+                <seq>101235</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.461</createDt>
+                <natDeathCnt>0</natDeathCnt>
+                <natDeathRate>0.0</natDeathRate>
+                <natDefCnt>51</natDefCnt>
+                <nationNm>마카오</nationNm>
+                <nationNmCn>澳门</nationNmCn>
+                <nationNmEn>Macau</nationNmEn>
+                <seq>101234</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.461</createDt>
+                <natDeathCnt>35</natDeathCnt>
+                <natDeathRate>0.6414956011</natDeathRate>
+                <natDefCnt>5456</natDefCnt>
+                <nationNm>대만</nationNm>
+                <nationNmCn>台湾</nationNmCn>
+                <nationNmEn>Taiwan</nationNmEn>
+                <seq>101233</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.46</createDt>
+                <natDeathCnt>210</natDeathCnt>
+                <natDeathRate>1.7743979721</natDeathRate>
+                <natDefCnt>11835</natDefCnt>
+                <nationNm>홍콩</nationNm>
+                <nationNmCn>香港</nationNmCn>
+                <nationNmEn>Hong Kong</nationNmEn>
+                <seq>101232</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.46</createDt>
+                <natDeathCnt>4636</natDeathCnt>
+                <natDeathRate>5.0934420285</natDeathRate>
+                <natDefCnt>91019</natDefCnt>
+                <nationNm>중국</nationNm>
+                <nationNmCn>中国</nationNmCn>
+                <nationNmEn>China</nationNmEn>
+                <seq>101231</seq>
+                <stdDay>2021년 05월 26일 09시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <areaNm>아시아</areaNm>
+                <areaNmCn>亚洲</areaNmCn>
+                <areaNmEn>Asia</areaNmEn>
+                <createDt>2021-05-26 10:23:01.46</createDt>
+                <natDeathCnt>1940</natDeathCnt>
+                <natDeathRate>1.4090440289</natDeathRate>
+                <natDefCnt>137682</natDefCnt>
+                <nationNm>한국</nationNm>
+                <nationNmCn>韓国</nationNmCn>
+                <nationNmEn>South Korea</nationNmEn>
+                <seq>101230</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>190</totalCount>
+    </body>
+</response>

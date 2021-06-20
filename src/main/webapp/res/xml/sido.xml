@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <createDt>2021-05-26 10:11:28.704</createDt>
+                <deathCnt>4</deathCnt>
+                <defCnt>3800</defCnt>
+                <gubun>검역</gubun>
+                <gubunCn>隔離區</gubunCn>
+                <gubunEn>Lazaretto</gubunEn>
+                <incDec>13</incDec>
+                <isolClearCnt>3538</isolClearCnt>
+                <isolIngCnt>258</isolIngCnt>
+                <localOccCnt>0</localOccCnt>
+                <overFlowCnt>13</overFlowCnt>
+                <qurRate>-</qurRate>
+                <seq>9754</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.703</createDt>
+                <deathCnt>1</deathCnt>
+                <defCnt>969</defCnt>
+                <gubun>제주도</gubun>
+                <gubunCn>济州</gubunCn>
+                <gubunEn>Jeju</gubunEn>
+                <incDec>6</incDec>
+                <isolClearCnt>855</isolClearCnt>
+                <isolIngCnt>113</isolIngCnt>
+                <localOccCnt>6</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>144.47</qurRate>
+                <seq>9753</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.703</createDt>
+                <deathCnt>19</deathCnt>
+                <defCnt>4614</defCnt>
+                <gubun>경상남도</gubun>
+                <gubunCn>庆南</gubunCn>
+                <gubunEn>Gyeongsangnam-do</gubunEn>
+                <incDec>20</incDec>
+                <isolClearCnt>4364</isolClearCnt>
+                <isolIngCnt>231</isolIngCnt>
+                <localOccCnt>20</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>137.27</qurRate>
+                <seq>9752</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.703</createDt>
+                <deathCnt>84</deathCnt>
+                <defCnt>4626</defCnt>
+                <gubun>경상북도</gubun>
+                <gubunCn>庆北</gubunCn>
+                <gubunEn>Gyeongsangbuk-do</gubunEn>
+                <incDec>9</incDec>
+                <isolClearCnt>4269</isolClearCnt>
+                <isolIngCnt>273</isolIngCnt>
+                <localOccCnt>9</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>173.75</qurRate>
+                <seq>9751</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.703</createDt>
+                <deathCnt>14</deathCnt>
+                <defCnt>1420</defCnt>
+                <gubun>전라남도</gubun>
+                <gubunCn>全南</gubunCn>
+                <gubunEn>Jeollanam-do</gubunEn>
+                <incDec>11</incDec>
+                <isolClearCnt>1208</isolClearCnt>
+                <isolIngCnt>198</isolIngCnt>
+                <localOccCnt>11</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>76.15</qurRate>
+                <seq>9750</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.703</createDt>
+                <deathCnt>58</deathCnt>
+                <defCnt>2193</defCnt>
+                <gubun>전라북도</gubun>
+                <gubunCn>全北</gubunCn>
+                <gubunEn>Jeollabuk-do</gubunEn>
+                <incDec>6</incDec>
+                <isolClearCnt>2030</isolClearCnt>
+                <isolIngCnt>105</isolIngCnt>
+                <localOccCnt>6</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>120.67</qurRate>
+                <seq>9749</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.703</createDt>
+                <deathCnt>37</deathCnt>
+                <defCnt>3477</defCnt>
+                <gubun>충청남도</gubun>
+                <gubunCn>忠南</gubunCn>
+                <gubunEn>Chungcheongnam-do</gubunEn>
+                <incDec>19</incDec>
+                <isolClearCnt>3153</isolClearCnt>
+                <isolIngCnt>287</isolIngCnt>
+                <localOccCnt>19</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>163.82</qurRate>
+                <seq>9748</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.703</createDt>
+                <deathCnt>68</deathCnt>
+                <defCnt>2885</defCnt>
+                <gubun>충청북도</gubun>
+                <gubunCn>忠北</gubunCn>
+                <gubunEn>Chungcheongbuk-do</gubunEn>
+                <incDec>13</incDec>
+                <isolClearCnt>2658</isolClearCnt>
+                <isolIngCnt>159</isolIngCnt>
+                <localOccCnt>13</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>180.38</qurRate>
+                <seq>9747</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.702</createDt>
+                <deathCnt>51</deathCnt>
+                <defCnt>3124</defCnt>
+                <gubun>강원도</gubun>
+                <gubunCn>江原</gubunCn>
+                <gubunEn>Gangwon-do</gubunEn>
+                <incDec>25</incDec>
+                <isolClearCnt>2833</isolClearCnt>
+                <isolIngCnt>240</isolIngCnt>
+                <localOccCnt>25</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>202.79</qurRate>
+                <seq>9746</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.702</createDt>
+                <deathCnt>630</deathCnt>
+                <defCnt>38334</defCnt>
+                <gubun>경기도</gubun>
+                <gubunCn>京畿</gubunCn>
+                <gubunEn>Gyeonggi-do</gubunEn>
+                <incDec>190</incDec>
+                <isolClearCnt>35556</isolClearCnt>
+                <isolIngCnt>2148</isolIngCnt>
+                <localOccCnt>184</localOccCnt>
+                <overFlowCnt>6</overFlowCnt>
+                <qurRate>289.31</qurRate>
+                <seq>9745</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.702</createDt>
+                <deathCnt>1</deathCnt>
+                <defCnt>454</defCnt>
+                <gubun>세종</gubun>
+                <gubunCn>世宗</gubunCn>
+                <gubunEn>Sejong</gubunEn>
+                <incDec>9</incDec>
+                <isolClearCnt>396</isolClearCnt>
+                <isolIngCnt>57</isolIngCnt>
+                <localOccCnt>9</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>132.62</qurRate>
+                <seq>9744</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.702</createDt>
+                <deathCnt>40</deathCnt>
+                <defCnt>2542</defCnt>
+                <gubun>울산광역시</gubun>
+                <gubunCn>蔚山</gubunCn>
+                <gubunEn>Ulsan</gubunEn>
+                <incDec>15</incDec>
+                <isolClearCnt>2309</isolClearCnt>
+                <isolIngCnt>193</isolIngCnt>
+                <localOccCnt>15</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>221.61</qurRate>
+                <seq>9743</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.702</createDt>
+                <deathCnt>24</deathCnt>
+                <defCnt>2013</defCnt>
+                <gubun>대전광역시</gubun>
+                <gubunCn>大田</gubunCn>
+                <gubunEn>Daejeon</gubunEn>
+                <incDec>17</incDec>
+                <isolClearCnt>1855</isolClearCnt>
+                <isolIngCnt>134</isolIngCnt>
+                <localOccCnt>17</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>136.55</qurRate>
+                <seq>9742</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.702</createDt>
+                <deathCnt>22</deathCnt>
+                <defCnt>2751</defCnt>
+                <gubun>광주광역시</gubun>
+                <gubunCn>光州</gubunCn>
+                <gubunEn>Gwangju</gubunEn>
+                <incDec>21</incDec>
+                <isolClearCnt>2570</isolClearCnt>
+                <isolIngCnt>159</isolIngCnt>
+                <localOccCnt>20</localOccCnt>
+                <overFlowCnt>1</overFlowCnt>
+                <qurRate>188.85</qurRate>
+                <seq>9741</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.701</createDt>
+                <deathCnt>61</deathCnt>
+                <defCnt>6094</defCnt>
+                <gubun>인천광역시</gubun>
+                <gubunCn>仁川</gubunCn>
+                <gubunEn>Incheon</gubunEn>
+                <incDec>19</incDec>
+                <isolClearCnt>5835</isolClearCnt>
+                <isolIngCnt>198</isolIngCnt>
+                <localOccCnt>19</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>206.15</qurRate>
+                <seq>9740</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.701</createDt>
+                <deathCnt>221</deathCnt>
+                <defCnt>9792</defCnt>
+                <gubun>대구광역시</gubun>
+                <gubunCn>大邱</gubunCn>
+                <gubunEn>Daegu</gubunEn>
+                <incDec>30</incDec>
+                <isolClearCnt>9244</isolClearCnt>
+                <isolIngCnt>327</isolIngCnt>
+                <localOccCnt>30</localOccCnt>
+                <overFlowCnt>0</overFlowCnt>
+                <qurRate>401.89</qurRate>
+                <seq>9739</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.701</createDt>
+                <deathCnt>124</deathCnt>
+                <defCnt>5593</defCnt>
+                <gubun>부산광역시</gubun>
+                <gubunCn>釜山</gubunCn>
+                <gubunEn>Busan</gubunEn>
+                <incDec>22</incDec>
+                <isolClearCnt>5229</isolClearCnt>
+                <isolIngCnt>240</isolIngCnt>
+                <localOccCnt>21</localOccCnt>
+                <overFlowCnt>1</overFlowCnt>
+                <qurRate>163.93</qurRate>
+                <seq>9738</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.701</createDt>
+                <deathCnt>481</deathCnt>
+                <defCnt>43001</defCnt>
+                <gubun>서울</gubun>
+                <gubunCn>首尔</gubunCn>
+                <gubunEn>Seoul</gubunEn>
+                <incDec>262</incDec>
+                <isolClearCnt>39680</isolClearCnt>
+                <isolIngCnt>2840</isolIngCnt>
+                <localOccCnt>260</localOccCnt>
+                <overFlowCnt>2</overFlowCnt>
+                <qurRate>441.78</qurRate>
+                <seq>9737</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+            <item>
+                <createDt>2021-05-26 10:11:28.701</createDt>
+                <deathCnt>1940</deathCnt>
+                <defCnt>137682</defCnt>
+                <gubun>합계</gubun>
+                <gubunCn>合计</gubunCn>
+                <gubunEn>Total</gubunEn>
+                <incDec>707</incDec>
+                <isolClearCnt>127582</isolClearCnt>
+                <isolIngCnt>8160</isolIngCnt>
+                <localOccCnt>684</localOccCnt>
+                <overFlowCnt>23</overFlowCnt>
+                <qurRate>265.55</qurRate>
+                <seq>9736</seq>
+                <stdDay>2021년 05월 26일 00시</stdDay>
+                <updateDt>null</updateDt>
+            </item>
+        </items>
+        <numOfRows>10</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>19</totalCount>
+    </body>
+</response>
